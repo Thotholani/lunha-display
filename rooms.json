@@ -6,7 +6,7 @@
   },
   {
     "name": "Nalikwanda 2",
-    "occupants": "Kuomba Ceremony",
+    "occupants": "Kuomboka Ceremony",
     "number": "2"
   },
   {
@@ -20,23 +20,28 @@
     "number": "4"
   },
   {
-    "name": "Kariba",
+    "name": "Luangwa",
     "occupants": " ",
     "number": "5"
   },
   {
-    "name": "Insaka",
+    "name": "Kariba",
     "occupants": " ",
     "number": "6"
   },
   {
-    "name": "Siavonga",
+    "name": "Insaka",
     "occupants": " ",
     "number": "7"
   },
   {
-    "name": "Nsumbu",
+    "name": "Siavonga",
     "occupants": " ",
     "number": "8"
+  },
+  {
+    "name": "Nsumbu",
+    "occupants": " ",
+    "number": "9"
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Nalikwanda 1",
+    "occupants": "Kuomboka Ceremony",
+    "number": "1"
+  },
+  {
+    "name": "Nalikwanda 2",
+    "occupants": "Kuomba Ceremony",
+    "number": "2"
+  },
+  {
+    "name": "Zambezi",
+    "occupants": "Kuomboka Holding Room",
+    "number": "3"
+  },
+  {
+    "name": "Kafue",
+    "occupants": " ",
+    "number": "4"
+  },
+  {
+    "name": "Kariba",
+    "occupants": " ",
+    "number": "5"
+  },
+  {
+    "name": "Insaka",
+    "occupants": " ",
+    "number": "6"
+  },
+  {
+    "name": "Siavonga",
+    "occupants": " ",
+    "number": "7"
+  },
+  {
+    "name": "Nsumbu",
+    "occupants": " ",
+    "number": "8"
+  }
+]

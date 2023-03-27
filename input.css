@@ -5,15 +5,16 @@
 @tailwind utilities;
 
 .title {
-  font-size: 200px;
-  font-size: 13vw;
+  font-size: 170px;
+  font-size: 17vh;
   text-align: center;
   font-weight: bold;
 }
 
 .title-adjustable {
-  font-size: 200px;
-  font-size: 13cqw;
+  font-size: 170px;
+  /*font-size: 16cqw;*/
+  font-size: 17vh;
   text-align: center;
   font-weight: bold;
 }

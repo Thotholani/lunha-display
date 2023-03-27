@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const server = http.createServer(app);
 const { Server } = require("socket.io");
 const io = new Server(server);
-roomsArray = require("./rooms.json");
+let roomsArray = require("./rooms.json");
 const fs = require("fs");
 
 app.use(bodyParser.urlencoded({ extended: true }));

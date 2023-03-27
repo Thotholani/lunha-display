@@ -9,5 +9,8 @@
     "nodemon": "^2.0.22",
     "socket.io": "^4.6.1",
     "tailwindcss": "^3.2.7"
+  },
+  "scripts": {
+    "dev": "nodemon ./app.js"
   }
 }

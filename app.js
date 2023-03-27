@@ -73,7 +73,7 @@ app.post("/rooms/:name", function (req, res) {
       });
       // console.log("The index is: " + index);
       data[index].occupants = occupants;
-      fs.writeFile(jsonFileDir, JSON.stringify(data, null, 2), (err) => {
+      fs.writeFileSync(jsonFileDir, JSON.stringify(data, null, 2), (err) => {
         if (err) {
           console.log(err);
         }
